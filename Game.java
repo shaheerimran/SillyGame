@@ -20,7 +20,7 @@ public class Game {
         System.out.println("'Why is there no one here, it is nearly 8 a.m.', yoou think to yourself.");
         System.out.println("Just as you enter in, you hear a shreik and a girl running from down the hall.");
         System.out.println("You ask the girl,'What's happening'.");
-        System.out.println("'There's an outbreak at the school. It spread through the ramen that the students ate. It makes them act like zombies.', she says.");
+        System.out.println("'There's an outbreak at the school. It spread through the ramen that the students ate. It makes them act like monsters.', she says.");
         System.out.println("'One of them is after us right now.', the girl says");
         System.out.println("You spot a student, a boy no older than 20, down the hall, he acts weird walking on all fours and constantly yelling annoying outdated memes.");
         System.out.println("The infected boy spots you and the girl, he charges at you both while Rick Rolling you.");
